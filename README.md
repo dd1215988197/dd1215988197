@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dd1215988197
+- 👋 Hi, I’m chao
 - 👀 I’m interested in sleep
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on study group to learn  java
